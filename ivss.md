@@ -1,6 +1,6 @@
 ---
 title: "International Virtual Surgical Skills Series (IVSS-Series)"
-thumbnail: "/images/ivss.jpg"
+thumbnail: "/src/pages/projects/images/ivss.jpg"
 category: "Surgical Education"
 excerpt: "A faculty-led, fully virtual initiative designed to introduce medical students to fundamental surgical knot-tying skills using resource-efficient methods."
 status: "Completed"
@@ -13,12 +13,6 @@ The **International Virtual Surgical Skills Series (IVSS-Series)** was the first
 
 Conducted from **January 21 to February 8, 2025**, the series aligned with GSSN’s mission of promoting equitable surgical education, particularly in low- and middle-income countries (LMICs).
 
-## Program Categories
-- Surgical Education
-- Virtual Learning
-- Simulation-Based Skills Training
-- Low-Cost Surgical Education
-- Global Surgery
 
 ## Technologies & Methods Utilized
 - **Microsoft Teams**: Used for live instruction and real-time interaction.
