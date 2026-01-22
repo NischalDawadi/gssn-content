@@ -16,14 +16,6 @@ resources:
 
 The Keep No Operation Tangled (K.N.O.T.) campaign was a pilot initiative by the Global Surgery Simulation Network (GSSN). Running from January 21 to July 2, 2025, it launched with the International Virtual Surgical Skill Series (IVSS-Series). The campaign's primary goal was to leverage a peer-to-peer teaching model to instruct medical students in essential surgical skills: basic surgical knot tying (including the Single-Handed Reef Knot, Single-Handed Surgeon’s Knot, Double-Handed Surgeon’s Knot, Instrument Tying, and Tying-at-Depth) and sterile gloving technique.
 
-### Categories
-
-- Surgical Education
-- Simulation-Based Training
-- Low-Cost Surgical Innovation
-- Hybrid Learning
-- Medical Education Research
-- Peer-to-Peer Teaching and Learning
 
 ## Campaign Description
 

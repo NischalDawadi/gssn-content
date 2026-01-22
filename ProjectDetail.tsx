@@ -104,7 +104,6 @@ export default function ProjectDetail({
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
           >
-            {/* Back Link - Reduced margin-bottom slightly for tighter feel */}
             <div className="flex justify-start mb-8">
               <Link
                 to="/projects"
@@ -175,7 +174,6 @@ export default function ProjectDetail({
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
 
 
-          {/* LEFT COLUMN: Main Article (Order 3 on Mobile, 1 on Desktop) */}
           <motion.div
             className="order-3 lg:order-1 lg:col-span-8"
             initial={{ opacity: 0, y: 20 }}
@@ -216,7 +214,6 @@ export default function ProjectDetail({
             </article>
           </motion.div>
 
-          {/* RIGHT COLUMN: Sidebar Wrapper (Contains Info and ToC) */}
           <div className="contents lg:flex lg:flex-col lg:col-span-4 lg:order-2 lg:space-y-12">
             {/* Project Info (Order 1 on Mobile) */}
             <motion.aside
@@ -253,7 +250,7 @@ export default function ProjectDetail({
               </Card>
             </motion.aside>
 
-            {/* Table of Contents (Order 2 on Mobile) */}
+            {/* Table of Contents  */}
             {toc && toc.length > 0 && (
               <motion.div
                 className="order-2 lg:order-none lg:flex-1"
