@@ -80,10 +80,10 @@ The squared term represents:
 - Systems thinking  
 
 **Linear innovation:**  
-`Idea → Outcome`
+Idea → Outcome
 
 **IT² innovation:**  
-`Idea × People × Discussion → Outcome²`
+Idea × People × Discussion → Outcome²
 
 ---
 
@@ -102,7 +102,7 @@ In GSSN IT² NEXUS, the **Nexus** is the hub where thinking and collective intel
 
 ---
 
-# STANDARD OPERATING PROCEDURE (SOP)
+## STANDARD OPERATING PROCEDURE (SOP)
 
 ## GSSN-IGI IT² NEXUS Innovation Think Tank
 
@@ -162,7 +162,7 @@ Where:
 - **Tank:** Collective intelligence and collaborative expertise  
 
 **Expanded:**  
-`Impact = Innovation × (Think × Tank)²`  
+Impact = Innovation × (Think × Tank)²  
 
 Within this framework:  
 **Think × Tank = NEXUS**
@@ -280,9 +280,9 @@ Maximum of **three ideas per session**.
 
 Each idea concludes with one outcome:
 
-- 🟢 **Advance** – Progress to mentoring, working group, or pilot  
-- 🟡 **Refine** – Requires clarification or scope adjustment  
-- 🔵 **Archive** – Valuable but not ready for progression  
+- **Advance** – Progress to mentoring, working group, or pilot  
+- **Refine** – Requires clarification or scope adjustment  
+- **Archive** – Valuable but not ready for progression  
 
 *No idea is formally rejected.*
 
