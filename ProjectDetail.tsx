@@ -21,7 +21,7 @@ import ReactMarkdown from 'react-markdown';
 interface ProjectDetailProps {
   title: string;
   description: string;
-  category: string;
+  categories: string[];
   status: string;
   technologies: string[];
   content: string;
@@ -41,7 +41,7 @@ interface ProjectDetailProps {
 export default function ProjectDetail({
   title,
   description,
-  category,
+  categories = [],
   status,
   technologies,
   content,
@@ -125,10 +125,16 @@ export default function ProjectDetail({
             <div className="max-w-4xl text-left">
 
               <div className="flex flex-wrap justify-start gap-3 mb-6">
-                {category && (
-                  <Badge variant="secondary" className="px-3 py-1 text-sm bg-white/50 backdrop-blur border-muted-foreground/20 text-slate-700 dark:text-slate-300">
-                    {category}
-                  </Badge>
+                
+                  {categories.map((cat) => (
+                <Badge
+                  key={cat}
+                  variant="secondary"
+                  className="px-3 py-1 text-sm bg-white/50 backdrop-blur border-muted-foreground/20 text-slate-700 dark:text-slate-300"
+                >
+                  {cat}
+                </Badge>
+              ))}
                 )}
                 {status && (
                 <Badge
