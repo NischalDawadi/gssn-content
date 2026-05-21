@@ -44,10 +44,9 @@ The event highlighted the maturation of GSSN from an emerging student initiative
 
 The AGM was divided into two major segments:
 
-| Segment | Primary Focus |
-|---|---|
-| Formal Institutional Session | Organizational review, reporting, academic presentations, transparency |
-| Community Celebration Session | Anniversary celebration, engagement activities, member interaction |
+
+**Formal Institutional Session**: Mainly concerning Organizational Review, Reporting, Academic Presentations
+**Community Celebration Session**: Filled with happy moments like Anniversary Celebration, Engagement Activities, Member Interaction
 
 ---
 
@@ -233,15 +232,10 @@ Beyond celebration alone, the AGM functioned as a symbolic transition point mark
 
 ## Event Information
 
-| Category | Details |
-|---|---|
-| **Event Name** | Annual General Meeting & Anniversary Celebration |
-| **Organization** | Global Surgical Students Network (GSSN) |
-| **Date** | January 17, 2026 |
-| **Format** | Hybrid Community & Academic Gathering |
-| **Participants** | Approximately 130 attendees |
-| **Type** | Institutional Review & Anniversary Event |
-| **Status** | Completed |
+- **Date:** January 17, 2026 
+- **Organized By:** Global Surgical Students Network (GSSN) 
+- **Format:** Hybrid Community & Academic Gathering 
+- **Participants:** ~130 attendees
 
 ---
 
