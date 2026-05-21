@@ -197,10 +197,10 @@ It functioned as a transition point in GSSN’s evolution toward a more mature, 
 
 ## Event Information
 
-- Date: January 17, 2026  
-- Organization: Global Surgical Students Network (GSSN)  
-- Format: Hybrid Community and Academic Gathering  
-- Participants: ~130 attendees  
+- **Date**: January 17, 2026  
+- **Organization**: Global Surgical Students Network (GSSN)  
+- **Format**: Hybrid Community and Academic Gathering  
+- **Participants**: ~130 attendees
 
 ---
 

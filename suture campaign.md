@@ -91,11 +91,11 @@ Future directions include:
 
 ## Programme Information
 
-- Programme: Suture Campaign 1.0  
-- Phase: Training of Trainers (Phase I)  
-- Organization: Global Surgical Students Network (GSSN)  
-- Lead Facilitator: Dr. Bishow Karki  
-- Format: Structured Surgical Skills Training Initiative  
+- - **Programme**: Suture Campaign 1.0  
+- **Phase**: Training of Trainers (Phase I)  
+- **Organization**: Global Surgery Simulation Network
+- **Lead Facilitator**: Dr. Bishow Karki
+- **Format**: Structured Surgical Skills Training Initiative  
 
 ---
 

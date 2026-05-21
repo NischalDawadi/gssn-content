@@ -83,11 +83,11 @@ This initiative reflects GSSN’s broader mission of building accessible, scalab
 
 ## Programme Information
 
-- Programme Type: International Surgical Fellowship  
-- Duration: 1 Month  
-- Host Institution: Suture Centre, Hull University Teaching Hospital NHS Trust  
-- Delivery Partner: Global Surgical Students Network (GSSN)  
-- Core Focus Areas: Simulation Training, Surgical Education, Global Collaboration  
+- **Programme Type**: International Surgical Fellowship  
+- **Duration**: 1 Month  
+- **Host Institution**: Suture Centre, Hull University Teaching Hospital NHS Trust  
+- **Delivery Partner**: Global Surgical Students Network (GSSN)  
+- **Core Focus Areas**: Simulation Training, Surgical Education, Global Collaboration  
 
 ---
 
