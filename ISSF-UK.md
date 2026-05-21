@@ -11,62 +11,83 @@ resources:
   docs: "#"
 ---
 
-## International Surgical Simulation Fellowship – UK (1-Month Program)
+## International Surgical Simulation Fellowship – United Kingdom
 
-Reinforcing its commitment to bridging gaps in global surgical education, Global Surgical Students Network (GSSN) introduced the **International Surgical Simulation Fellowship – UK**, a structured one-month programme aimed at empowering future surgical leaders from LMICs.
+### One-Month Global Surgical Education Fellowship
 
-The fellowship is hosted by the **Suture Centre, Hull University Teaching Hospital NHS Trust**, with GSSN serving as the delivery partner.
-
----
-
-## Fellowship Objectives
-
-The programme is designed to:
-
-- Build expertise in surgical simulation methodologies
-- Strengthen hands-on surgical training approaches
-- Foster innovation in medical education
-- Promote global surgery collaboration
-- Develop future surgical educators and leaders
+> A structured international fellowship programme focused on developing future surgical educators through simulation-based training, academic exposure, and cross-border collaboration.
 
 ---
 
-## Fellowship Structure
+## Programme Overview
 
-Participants are exposed to:
+The **International Surgical Simulation Fellowship – UK** is a structured one-month training initiative introduced by the **Global Surgical Students Network (GSSN)** to strengthen global surgical education capacity, particularly for trainees from low- and middle-income countries.
 
-- Simulation-based surgical education
-- Faculty-led practical learning
-- Educational systems and curriculum exposure
-- International mentorship and collaboration
+The programme is hosted by the **Suture Centre, Hull University Teaching Hospital NHS Trust**, with GSSN acting as the official delivery and coordination partner.
+
+This fellowship is designed not as a short observational experience, but as a **competency-oriented educational pathway** emphasizing simulation-based surgical learning and pedagogical development.
+
+---
+
+## Strategic Objectives
+
+The fellowship is structured around long-term goals in global surgical education:
+
+- Develop expertise in simulation-based surgical training methodologies  
+- Strengthen practical, hands-on approaches to surgical education  
+- Foster innovation in teaching and curriculum design  
+- Promote international collaboration in surgical training systems  
+- Build capacity for future surgical educators and academic leaders  
+
+---
+
+## Training and Exposure Framework
+
+Participants are immersed in a structured educational environment that includes:
+
+- Simulation-based surgical skill development  
+- Faculty-led practical training sessions  
+- Exposure to structured UK surgical education systems  
+- Curriculum design and teaching methodology insights  
+- International mentorship and academic collaboration  
+
+> The programme emphasizes integration of **technical skill acquisition with educational theory and teaching practice**.
 
 ---
 
 ## First Fellowship Milestone
 
-A key milestone for the initiative is the selection of its first fellow:
+A defining milestone of the programme is the selection of its inaugural fellow:
 
 - **Dr. Prarthana Subedi**
 
-Her participation marks the beginning of what GSSN envisions as a growing pipeline of internationally trained surgical educators and leaders.
+Her participation marks the establishment of the fellowship as a functioning international training pathway and represents the beginning of a broader pipeline for globally trained surgical educators.
 
 ---
 
-## Global Impact
+## Educational and Global Impact
 
-This fellowship represents a significant step toward translating global exposure into local impact by strengthening surgical training ecosystems in resource-limited settings.
+The fellowship contributes to global surgery development by bridging international training exposure with local healthcare realities in LMICs.
 
-The programme reflects GSSN’s long-term commitment to accessible, internationally connected surgical education.
+Key impacts include:
+
+- Strengthening surgical education capacity through international exposure  
+- Enhancing simulation-based training dissemination  
+- Supporting the development of future surgical educators  
+- Promoting sustainable knowledge transfer models  
+- Reinforcing global academic collaboration in surgical training  
+
+This initiative reflects GSSN’s broader mission of building accessible, scalable, and internationally integrated surgical education systems.
 
 ---
 
 ## Programme Information
 
-- **Programme Type:** International Fellowship
-- **Duration:** 1 Month
-- **Hosted By:** Suture Centre, Hull University Teaching Hospital NHS Trust
-- **Delivery Partner:** Global Surgical Students Network (GSSN)
-- **Focus Areas:** Simulation, Surgical Education, Global Collaboration
+- Programme Type: International Surgical Fellowship  
+- Duration: 1 Month  
+- Host Institution: Suture Centre, Hull University Teaching Hospital NHS Trust  
+- Delivery Partner: Global Surgical Students Network (GSSN)  
+- Core Focus Areas: Simulation Training, Surgical Education, Global Collaboration  
 
 ---
 
