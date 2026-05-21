@@ -21,7 +21,7 @@ import ReactMarkdown from 'react-markdown';
 interface ProjectDetailProps {
   title: string;
   description: string;
-  categories: string[];
+  category: string;
   status: string;
   technologies: string[];
   content: string;
@@ -41,7 +41,7 @@ interface ProjectDetailProps {
 export default function ProjectDetail({
   title,
   description,
-  categories = [],
+  category,
   status,
   technologies,
   content,
@@ -125,24 +125,18 @@ export default function ProjectDetail({
             <div className="max-w-4xl text-left">
 
               <div className="flex flex-wrap justify-start gap-3 mb-6">
-                
-                  {categories.map((cat) => (
-                <Badge
-                  key={cat}
-                  variant="secondary"
-                  className="px-3 py-1 text-sm bg-white/50 backdrop-blur border-muted-foreground/20 text-slate-700 dark:text-slate-300"
-                >
-                  {cat}
-                </Badge>
-              ))}
+                {category && (
+                  <Badge variant="secondary" className="px-3 py-1 text-sm bg-white/50 backdrop-blur border-muted-foreground/20 text-slate-700 dark:text-slate-300">
+                    {category}
+                  </Badge>
                 )}
                 {status && (
                 <Badge
                   variant="outline"
-                  className={`px-3 py-1 text-sm ${
+                  className={px-3 py-1 text-sm ${
                     statusStyles[status as keyof typeof statusStyles] ||
                     'text-slate-600 border-slate-200 bg-slate-50'
-                  }`}
+                  }}
                 >          {status}
                 </Badge>
                 )}
@@ -153,8 +147,8 @@ export default function ProjectDetail({
                 {title}
               </h1>
 
-              <p className={`text-lg md:text-xl text-muted-foreground leading-relaxed max-w-3xl ${(author || date) ? 'mb-8' : 'mb-0'
-                }`}>
+              <p className={text-lg md:text-xl text-muted-foreground leading-relaxed max-w-3xl ${(author || date) ? 'mb-8' : 'mb-0'
+                }}>
                 {description}
               </p>
 
@@ -283,7 +277,7 @@ export default function ProjectDetail({
                       <List className="w-4 h-4" />
                       <span className="text-sm font-bold uppercase tracking-tight">On This Page</span>
                     </div>
-                    <ChevronDown className={`w-4 h-4 transition-transform duration-300 ${isTocExpanded ? 'rotate-180' : ''}`} />
+                    <ChevronDown className={w-4 h-4 transition-transform duration-300 ${isTocExpanded ? 'rotate-180' : ''}} />
                   </button>
 
                   {/* Desktop Header */}
@@ -298,7 +292,7 @@ export default function ProjectDetail({
                   <motion.div
                     initial={false}
                     animate={isMobile ? { height: isTocExpanded ? 'auto' : 0, opacity: isTocExpanded ? 1 : 0 } : { height: 'auto', opacity: 1 }}
-                    className={`overflow-hidden lg:!h-auto lg:!opacity-100`}
+                    className={overflow-hidden lg:!h-auto lg:!opacity-100}
                   >
                     <nav className="relative md:ml-2">
                       <div className="absolute left-[9px] top-2 bottom-2 w-[1px] bg-border/50" />
@@ -309,25 +303,25 @@ export default function ProjectDetail({
                           return (
                             <li key={item.id}>
                               <a
-                                href={`#${item.id}`}
+                                href={#${item.id}}
                                 onClick={() => isMobile && setIsTocExpanded(false)}
-                                className={`group flex items-center py-2 transition-all duration-300 ${isActive
+                                className={group flex items-center py-2 transition-all duration-300 ${isActive
                                   ? 'text-primary'
                                   : 'text-muted-foreground hover:text-foreground'
-                                  }`}
+                                  }}
                               >
                                 <div className="relative flex items-center justify-center w-5 mr-3">
-                                  <div className={`w-1.5 h-1.5 rounded-full border-2 border-background transition-all duration-300 ${isActive
+                                  <div className={w-1.5 h-1.5 rounded-full border-2 border-background transition-all duration-300 ${isActive
                                     ? 'bg-primary scale-125 ring-4 ring-primary/10'
                                     : 'bg-border scale-100 group-hover:bg-muted-foreground'
-                                    }`}
+                                    }}
                                   />
                                 </div>
 
-                                <span className={`text-[13px] transition-all duration-300 ${isActive
+                                <span className={text-[13px] transition-all duration-300 ${isActive
                                   ? 'font-bold translate-x-1'
                                   : 'font-medium translate-x-0'
-                                  } ${item.level === 3 ? 'ml-2 opacity-70' : ''}`}
+                                  } ${item.level === 3 ? 'ml-2 opacity-70' : ''}}
                                 >
                                   {item.text}
                                 </span>
@@ -358,3 +352,5 @@ export default function ProjectDetail({
     </div>
   );
 }
+
+
