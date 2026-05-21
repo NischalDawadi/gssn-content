@@ -1,6 +1,6 @@
 ---
 title: "International Surgical Simulation Fellowship – UK"
-thumbnail: "/src/pages/projects/images/fellowshipuk.jpg"
+thumbnail: "/src/pages/projects/images/fellowshipuk.png"
 category: "Global Surgery"
 excerpt: "A global fellowship partnership designed to develop future surgical educators through advanced simulation-based learning and international collaboration."
 status: "Active"
