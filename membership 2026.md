@@ -99,11 +99,11 @@ This initiative reinforces GSSN’s commitment to:
 
 ## Programme Information
 
-- Launch Date: February 9, 2026  
-- Programme Type: Membership Cycle (Rolling Access)  
-- Organization: Global Surgical Students Network (GSSN)  
-- Eligibility: Medical Students (All Years & Institutions)  
-- Focus Areas: Surgical Education, Training Access, Mentorship, Collaboration  
+- **Launch Date**: February 9, 2026  
+- **Programme Type**: Membership Cycle (Rolling Access)  
+- **Organization**: Global Surgical Students Network (GSSN)  
+- **Eligibility**: Medical Students (All Years & Institutions)  
+- **Focus Areas**: Surgical Education, Training Access, Mentorship, Collaboration
 
 ---
 
