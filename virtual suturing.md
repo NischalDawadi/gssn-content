@@ -11,61 +11,85 @@ resources:
   docs: "#"
 ---
 
-## Virtual Surgical Knot Tying & Suturing Training for LMICs (Feb 21, 2026)
+## Virtual Surgical Knot Tying & Suturing Training for LMICs
 
-On February 21, 2026, Global Surgical Students Network (GSSN) successfully delivered a **CPD-approved Virtual Surgical Knot Tying & Suturing Training** designed for medical students across low- and middle-income countries (LMICs).
+### CPD-Approved Virtual Surgical Skills Programme (February 21, 2026)
 
-This programme was fully hosted and conducted by GSSN, reflecting the organization’s growing capacity to independently deliver standardized, high-quality surgical skills training.
+> A structured, CPD-accredited virtual surgical training programme designed to deliver standardized knot tying and suturing education to medical students across low- and middle-income countries (LMICs).
+
+---
+
+## Overview
+
+On **February 21, 2026**, the **Global Surgical Students Network (GSSN)** successfully conducted a **CPD-approved Virtual Surgical Knot Tying & Suturing Training Programme**, targeting medical students across LMICs.
+
+This initiative marked a significant step in GSSN’s capacity to independently design and deliver **standardized virtual surgical education at scale**, while maintaining academic rigor and practical skill development.
+
+The programme was structured to ensure accessibility, consistency, and competency-based learning within a fully virtual environment.
 
 ---
 
 ## Programme Highlights
 
-- 6 CPD points awarded to participants
-- Approximately 100 limited seats filled
-- Small-group learning environment
+- CPD accreditation awarded with **6 CPD points**
+- Approximately **100 participant capacity (limited cohort)**
+- Structured small-group learning format
 - Standardized simulation-based curriculum
-- Hands-on virtual surgical skills training
+- Fully interactive virtual surgical skills training session
 
 ---
 
 ## Training Components
 
-Participants received structured training in:
+The curriculum was designed to reinforce core foundational surgical skills, including:
 
-- Surgical knot tying
-- Basic suturing techniques
-- Instrument handling principles
-- Technical skill reinforcement
+- Surgical knot tying techniques  
+- Basic suturing methods  
+- Instrument handling principles  
+- Fundamental technical skill reinforcement  
+
+Each component was delivered in a structured, stepwise format to ensure clarity and reproducibility across participants.
 
 ---
 
 ## Educational Approach
 
-The programme emphasized:
+The training adopted a competency-oriented instructional model focused on:
 
-- Individualized participant feedback
-- Close supervision of technique
-- Skills validation and competency development
-- Interactive simulation-focused learning
+- Individualized feedback on participant performance  
+- Direct supervision of technical execution  
+- Progressive skills validation  
+- Interactive simulation-based learning methodology  
+- Continuous correction of technique during practice sessions  
+
+> The emphasis was placed on **skill acquisition through active demonstration, repetition, and guided correction** rather than passive instruction.
 
 ---
 
-## Impact
+## Impact and Significance
 
-With its CPD accreditation and structured delivery model, the programme significantly contributed to strengthening early surgical competencies while enhancing participants’ academic and professional portfolios.
+The programme contributed meaningfully to both educational accessibility and surgical skill development in resource-limited settings.
 
-The initiative also demonstrated the scalability of accessible virtual surgical education for students in resource-limited settings.
+Key impacts included:
+
+- Strengthening of early-stage surgical competencies among participants  
+- Provision of CPD-certified academic value for professional development  
+- Demonstration of scalable virtual surgical education delivery  
+- Expansion of access to structured training in LMIC contexts  
+- Reinforcement of GSSN’s role in global surgical education innovation  
+
+The initiative further validated the effectiveness of **virtual, simulation-based surgical training models** in bridging educational gaps across diverse regions.
 
 ---
 
 ## Programme Information
 
-- **Date:** February 21, 2026
-- **Programme Type:** Virtual Surgical Skills Training
-- **Accreditation:** CPD Approved
-- **Organized By:** Global Surgical Students Network (GSSN)
-- **Participants:** ~100 medical students
+- Date: February 21, 2026  
+- Programme Type: Virtual Surgical Skills Training  
+- Accreditation: CPD Approved (6 CPD Points)  
+- Organization: Global Surgical Students Network (GSSN)  
+- Participants: Approximately 100 medical students  
+- Format: Structured Virtual Simulation-Based Training  
 
 ---
 

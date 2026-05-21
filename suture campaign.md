@@ -1,8 +1,8 @@
 ---
-title: "Suture Campaign "
+title: "Suture Campaign"
 thumbnail: "/src/pages/projects/images/suture campaign.png"
 category: "Surgical Education"
-excerpt: "A structured Training of Trainers initiative focused on standardizing suturing education and preparing GSSN leaders to deliver high-quality surgical skills training."
+excerpt: "A structured Training of Trainers initiative aimed at standardizing suturing education and building a scalable peer-led surgical skills training model within GSSN."
 status: "Active"
 
 resources:
@@ -11,73 +11,94 @@ resources:
   docs: "#"
 ---
 
-## Suture Campaign 1.0 – Phase I Launch
+## Suture Campaign 1.0
 
-Continuing its commitment to equipping medical students with essential early surgical skills, Global Surgical Students Network (GSSN) launched **Suture Campaign 1.0** early in the 2026 cycle, building on the success of the previous year’s KNOT Campaign.
+### Phase I: Training of Trainers (ToT) Launch
 
-Designed as a phase-wise initiative, the campaign began with **Phase I: Training of Trainers (ToT)** — a strategic step to ensure quality and consistency across all future training sessions.
+> A structured surgical education initiative designed to standardize suturing training and develop a peer-led instructional ecosystem within GSSN.
+
+---
+
+## Overview
+
+The **Suture Campaign 1.0** represents a structured continuation of GSSN’s commitment to foundational surgical skills development among medical students. Building upon the success of the **KNOT Campaign**, this iteration introduces a more standardized and scalable instructional framework.
+
+The campaign is organized as a multi-phase initiative, with **Phase I focusing on Training of Trainers (ToT)**. This phase establishes the instructional baseline required to ensure consistency, accuracy, and sustainability across all future training activities.
 
 ---
 
 ## Programme Focus
 
-Phase I primarily focused on:
+Phase I was directed toward members involved in teaching delivery and workshop facilitation:
 
 - Medical Representatives (MRs)
-- Surgical workshop team members
+- Surgical workshop facilitators
 - Core council members
 
-Participants underwent structured training to standardize teaching methodologies and technical competencies before expansion to general members.
+> These participants form the foundational teaching cohort responsible for ensuring uniform instructional delivery in subsequent phases.
 
 ---
 
 ## Training Objectives
 
-- Standardize suturing teaching techniques
-- Build peer-led surgical education capacity
-- Ensure consistency across future workshops
-- Strengthen foundational surgical skills training
+- Establish a standardized framework for suturing instruction  
+- Develop peer-led surgical teaching capacity within the organization  
+- Ensure consistency across all future training sessions  
+- Strengthen foundational technical competency in suturing skills  
+- Create a scalable model for structured surgical education delivery  
 
 ---
 
-## Session Leadership
+## Instructional Leadership
 
-The session was led by **Dr. Bishow Karki**, whose guidance emphasized:
+The session was conducted under the guidance of **Dr. Bishow Karki**, emphasizing both technical precision and pedagogical structure.
 
-- Technical precision
-- Structured demonstration methods
-- Effective peer-to-peer teaching strategies
-- Sustainable training scalability
+Key instructional components included:
+
+- Stepwise demonstration of core suturing techniques  
+- Emphasis on accuracy, ergonomics, and procedural discipline  
+- Translation of clinical skills into structured teaching modules  
+- Development of sustainable peer-training methodologies  
+
+> The focus extended beyond technical execution to the development of effective teaching capacity.
 
 ---
 
 ## Key Outcomes
 
-- Established a standardized instructional framework
-- Prepared core trainers for future expansion phases
-- Strengthened internal workshop facilitation capacity
-- Created a scalable surgical education model
+- Establishment of a standardized instructional protocol for suturing training  
+- Preparation of core trainers for subsequent expansion phases  
+- Strengthening of internal workshop facilitation capacity  
+- Introduction of a scalable peer-led training framework  
+- Improved consistency across teaching delivery units  
 
 ---
 
 ## Future Direction
 
-With Phase I successfully completed, GSSN has established a strong instructional foundation for the campaign.
+With the completion of Phase I, the Suture Campaign 1.0 progresses toward broader implementation phases.
 
-The Suture Campaign 1.0 is currently ongoing, with upcoming phases expected to expand training access to a wider base of medical students.
+Future directions include:
+
+- Expansion of training access to general membership  
+- Implementation of structured hands-on workshops  
+- Scaling of peer-led instructional delivery across cohorts  
+- Reinforcement of continuity in surgical skills education within GSSN  
+
+> The initiative is designed as a sustained institutional training framework rather than a standalone workshop series.
 
 ---
 
 ## Programme Information
 
-- **Programme:** Suture Campaign 1.0
-- **Phase:** Training of Trainers (Phase I)
-- **Organized By:** Global Surgical Students Network (GSSN)
-- **Lead Facilitator:** Dr. Bishow Karki
-- **Format:** Surgical Skills Training Initiative
+- Programme: Suture Campaign 1.0  
+- Phase: Training of Trainers (Phase I)  
+- Organization: Global Surgical Students Network (GSSN)  
+- Lead Facilitator: Dr. Bishow Karki  
+- Format: Structured Surgical Skills Training Initiative  
 
 ---
 
 ## Status
 
-**Ongoing**
+**Active — Phase I Completed**
