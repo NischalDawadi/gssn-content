@@ -1,6 +1,6 @@
 ---
 title: "Annual General Meeting & Anniversary Celebration"
-thumbnail: "/src/pages/projects/images/AGM.jpg"
+thumbnail: "/src/pages/projects/images/AGM.png"
 category: "Community"
 excerpt: "A milestone gathering celebrating GSSN’s first year through organizational reflection, academic presentations, interactive discussions, and community-building activities."
 status: "Completed"
