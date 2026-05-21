@@ -55,7 +55,14 @@ export default function ProjectDetail({
   const [activeId, setActiveId] = useState<string>('');
   const [isTocExpanded, setIsTocExpanded] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
+  const statusStyles = {
+    Active: 'text-green-700 border-green-200 bg-green-50',
+    Completed: 'text-blue-700 border-blue-200 bg-blue-50',
+    Ongoing: 'text-orange-700 border-orange-200 bg-orange-50',
+    Planning: 'text-yellow-700 border-yellow-200 bg-yellow-50',
+  };
 
+ 
   useEffect(() => {
     const checkMobile = () => setIsMobile(window.innerWidth < 1024);
     checkMobile();
@@ -124,12 +131,14 @@ export default function ProjectDetail({
                   </Badge>
                 )}
                 {status && (
-                  <Badge
-                    variant="outline"
-                    className={`px-3 py-1 text-sm ${status === 'Active' ? 'text-green-700 border-green-200 bg-green-50' : 'text-slate-600'}`}
-                  >
-                    {status === 'Active' ? <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full bg-green-500 animate-pulse" /> Active</span> : status}
-                  </Badge>
+                <Badge
+                  variant="outline"
+                  className={`px-3 py-1 text-sm ${
+                    statusStyles[status as keyof typeof statusStyles] ||
+                    'text-slate-600 border-slate-200 bg-slate-50'
+                  }`}
+                >          {status}
+                </Badge>
                 )}
               </div>
 
