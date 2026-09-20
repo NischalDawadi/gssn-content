@@ -233,7 +233,7 @@ Beyond its educational value, the workshop was developed into a research output.
 
 An abstract titled:
 
-> **“Impact of a Clinical Audit and Quality Improvement Project (QIP) Workshop on Students' Knowledge and Confidence: A Pre- and Post-Workshop Analysis”**
+> **Impact of a Clinical Audit and Quality Improvement Project (QIP) Workshop on Students' Knowledge and Confidence: A Pre- and Post-Workshop Analysis**
 
 was submitted together with an e-poster for presentation on **29 August 2026**.
 
