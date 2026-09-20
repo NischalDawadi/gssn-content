@@ -1,6 +1,6 @@
 ---
 title: "Clinical Audit & Quality Improvement Project (QIP) Workshop"
-thumbnail: "/src/pages/projects/images/audit.jpg"
+thumbnail: "/src/pages/projects/images/audit.png"
 category: "Global Surgery"
 excerpt: "A structured academic webinar designed to strengthen undergraduate medical students’ practical skills in KAP survey design, analysis, interpretation, and publication."
 status: "Completed"
