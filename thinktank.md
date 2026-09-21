@@ -3,7 +3,7 @@ title: "GSSN-IGI IT² NEXUS Innovation Think Tank (IT²)"
 thumbnail: "/src/pages/projects/images/lapsi.jpg"
 category: "Innovation "
 excerpt: "A bi-monthly innovation think tank that embodies a squared innovation model (I = IT²), transforming ideas into impact through the Nexus of thinking, collaboration, and collective intelligence."
-status: "Planning"
+status: "Active"
 
 resources:
   demo: "#"
