@@ -1,6 +1,6 @@
 ---
 title: "GSSN-IGI IT² NEXUS Innovation Think Tank (IT²)"
-thumbnail: "/src/pages/projects/images/lapsi.jpg"
+thumbnail: "/src/pages/projects/images/think-tank.png"
 category: "Innovation "
 excerpt: "A bi-monthly innovation think tank that embodies a squared innovation model (I = IT²), transforming ideas into impact through the Nexus of thinking, collaboration, and collective intelligence."
 status: "Active"
@@ -11,332 +11,233 @@ resources:
   docs: "#"
 ---
 
-## GSSN-IGI IT² NEXUS  
-**Innovation Think Tank (IT²)**  
-B2K – Version 1.0 | 12-12-2025  
+# GSSN–IGI IT² NEXUS Healthcare Innovation Grand Challenge 2026
+
+## Programme Overview
+
+The **GSSN–IGI IT² NEXUS Healthcare Innovation Grand Challenge** is an innovation programme designed to empower medical students, junior doctors, and multidisciplinary teams to develop **affordable, scalable, and sustainable healthcare solutions** using principles of **frugal innovation and surgical simulation**.
+
+### Programme Information
+
+| Item | Details |
+|---|---|
+| **Programme** | GSSN–IGI IT² NEXUS Healthcare Innovation Grand Challenge 2026 |
+| **Theme** | Healthcare Innovation through Frugal Surgical Simulation |
+| **Organisers** | GSSN & Inspire Global Innovation |
+| **Application Deadline** | **25 September 2026** |
+| **Expert Evaluation** | **26–29 September 2026** |
+| **Mentorship** | **1–7 October 2026** |
+| **Grand Finale** | **9 October 2026** |
+| **Mode** | Online / Hybrid |
+| **Team Size** | 4–5 members |
 
 ---
 
-## THE I = IT² EQUATION SYSTEM
+## 1. Aim
 
-### IT² NEXUS (Innovation Think Tank)
+To support participants in developing innovative, practical, and affordable healthcare solutions through surgical simulation, with potential to strengthen surgical education and healthcare delivery in resource-limited settings.
 
-A bi-monthly innovation think tank that embodies a **squared innovation model (I = IT²)**, transforming ideas into impact through the Nexus of thinking, collaboration, and collective intelligence.
+## 2. Who Can Participate?
 
----
+Applications are open to:
 
-## Primary Identity Equation
+- Medical students
+- Foundation and intern doctors
+- Early-career trainees
+- Engineers and other multidisciplinary professionals
+- GSSN members
 
-**I = IT²**  
-**Impact = Innovation × (Think × Tank)²**
-
----
-
-## Level 1: Core Definition
-
-**Impact = Innovation × (Think × Tank)²**
-
-**Meaning:**  
-Impact is generated when innovation is processed through critical thinking and collective intelligence, repeated and refined, producing squared outcomes.
+Teams should consist of **4–5 members** and should be led by a medical student or junior doctor.
 
 ---
 
-## Level 2: Collaboration Breakdown
+## 3. Innovation Theme
 
-**Think × Tank = Collaboration**
+### Healthcare Innovation through Frugal Surgical Simulation
 
-- **Think:** Critical thinking, questioning, refinement  
-- **Tank:** Collective intelligence, network, shared experience  
+Participants are encouraged to identify a genuine healthcare or surgical education challenge and develop an innovative solution that is:
 
----
+- Affordable
+- Accessible
+- Practical
+- Sustainable
+- Scalable
 
-## Level 3: Collaboration Deconstructed
+Possible areas include:
 
-**Collaboration = Idea × Collective Intelligence**
-
-**Meaning:**  
-Ideas grow exponentially when exposed to diverse minds, experience, and dialogue.
-
----
-
-## Full Expanded Equation (Complete Model)
-
-**Impact = Innovation × (Idea × Collective Intelligence)**
-
-This is the **DNA of IT² NEXUS**.
-
-Impact is not created by ideas alone. It is created when innovation meets thinking, collaboration, and iteration, producing exponential outcomes.
+- Low-cost surgical simulators
+- Portable simulation systems
+- AI-assisted or virtual simulation
+- Digital education platforms
+- Skills assessment tools
+- Curriculum innovation
+- Mobile simulation
+- Locally manufactured simulation solutions
+- Systems that improve access to surgical education
 
 ---
 
-## Why the Squared Term (²) Matters
+## 4. Application Requirements
 
-The squared term represents:
+Each team should submit:
 
-- Iteration  
-- Peer refinement  
-- Network effects  
-- Compounding learning  
-- Systems thinking  
+1. Completed application form
+2. **One-page innovation proposal**
+3. Short team introduction/proposal video
 
-**Linear innovation:**  
-Idea → Outcome
+The proposal should briefly address:
 
-**IT² innovation:**  
-Idea × People × Discussion → Outcome²
-
----
-
-## One-Line Philosophy
-
-**I = IT²**  
-Impact happens when innovation is multiplied through thinking and collective intelligence — squared.
+- What healthcare problem are you solving?
+- Why is the problem important?
+- What is your proposed innovation?
+- How does surgical simulation contribute?
+- How is the solution affordable and sustainable?
+- What would the prototype or first version look like?
+- What potential impact could it have?
 
 ---
 
-## Definition
+# 5. Programme Timeline
 
-IT² NEXUS operates on an exponential innovation model, where impact is generated by amplifying innovation through the Nexus of critical thinking and collective intelligence.
-
-In GSSN IT² NEXUS, the **Nexus** is the hub where thinking and collective intelligence connect to amplify innovation into impact.
-
----
-
-## STANDARD OPERATING PROCEDURE (SOP)
-
-## GSSN-IGI IT² NEXUS Innovation Think Tank
+| Date | Stage | Key Activity |
+|---|---|---|
+| **25 September 2026** | **Application Deadline** | Submission of application, proposal and video |
+| **26–29 September 2026** | **Expert Evaluation** | Review and evaluation of submitted innovations |
+| **1–7 October 2026** | **Mentorship & Refinement** | Expert mentorship, prototype refinement and pitch preparation |
+| **9 October 2026** | **Grand Finale** | Final presentations, Q&A, judging and awards |
 
 ---
 
-## Document Control
+## 6. Expert Evaluation
 
-- **Document Title:** Standard Operating Procedure for GSSN IT² NEXUS  
-- **Version:** 1.1  
-- **Effective Date:** 12-12-2025  
-- **Approved By:** GSSN Founder  
-- **Oversight:** GSSN Executive Committee  
-- **Review Cycle:** Annual (every 12 months)  
+Shortlisted teams will present their innovation to an expert panel.
 
----
+Evaluation will consider:
 
-## 1. Purpose
+- Healthcare relevance
+- Innovation potential
+- Feasibility
+- Frugal design
+- Scalability
+- Sustainability
+- Potential impact
+- Quality of presentation
 
-This SOP defines the governance, structure, and operational processes of **GSSN-IGI IT² NEXUS**, the Innovation Think Tank of the **Global Surgery Simulation Network (GSSN)** and **Inspire Global Innovations (IGI)**.
-
-IT² NEXUS provides a structured, discussion-led platform for the development, refinement, and incubation of early-stage ideas in surgical education, simulation, and global surgery, grounded in a mathematically informed squared innovation framework.
-
----
-
-## 2. Scope
-
-This SOP applies to:
-
-- All GSSN members participating in IT² NEXUS activities  
-- IT² NEXUS Lead and Session Chairs  
-- GSSN Founder and Executive Committee (oversight role)  
-- Invited collaborators and external contributors  
+The expert panel will identify the finalist teams progressing to the Grand Finale.
 
 ---
 
-## 3. Definitions and Conceptual Framework
+## 7. Mentorship
 
-### 3.1 Key Definitions
+Finalist teams will receive mentorship from relevant experts between **1–7 October 2026**.
 
-- **GSSN:** Global Surgery Simulation Network  
-- **IGI:** Inspire Global Innovations  
-- **IT²:** Innovation Think Tank Squared  
-- **NEXUS:** Structured convergence point of critical thinking and collective intelligence  
-- **Think Tank:** Forum for structured discussion, idea refinement, and collaborative problem-solving  
+Mentorship may include:
 
----
+- Clinical guidance
+- Surgical simulation expertise
+- Technical and engineering advice
+- Research and evaluation guidance
+- Prototype development
+- Presentation and pitch refinement
 
-### 3.2 Squared Innovation Framework
-
-**I = IT²**
-
-Where:
-
-- **Impact (I):** Educational, academic, or global surgery impact  
-- **Innovation:** Novel ideas or approaches  
-- **Think:** Critical analysis, questioning, refinement  
-- **Tank:** Collective intelligence and collaborative expertise  
-
-**Expanded:**  
-Impact = Innovation × (Think × Tank)²  
-
-Within this framework:  
-**Think × Tank = NEXUS**
+Mentors provide guidance while teams retain ownership and responsibility for their innovations.
 
 ---
 
-## 4. Vision and Mission
+## 8. Grand Finale
 
-### Vision
+### **9 October 2026**
 
-To cultivate a globally inclusive innovation ecosystem that transforms early-stage ideas into scalable, evidence-based solutions for surgical education, simulation, and global surgery.
+Finalist teams will present their innovations before the judging panel.
 
-### Mission
+The finale will include:
 
-- Provide a psychologically safe, non-hierarchical forum for idea exchange  
-- Encourage interdisciplinary collaboration and collective intelligence  
-- Support progression of ideas from concept to pilot and dissemination  
-- Align innovation activities with GSSN strategic priorities  
+- Innovation presentation
+- Question-and-answer session
+- Final evaluation
+- Recognition and awards
 
----
-
-## 5. Governance and Leadership
-
-### 5.1 Oversight
-
-IT² NEXUS operates under the strategic oversight of the **GSSN Founder**, with governance support from the **GSSN-IGI Executive Committee** and operational support from the IT² NEXUS core team.
+Teams may demonstrate their prototype, proof-of-concept, or supporting materials where appropriate.
 
 ---
 
-### 5.2 Leadership and Selection
+## 9. Assessment Principles
 
-#### IT² NEXUS Lead
+Projects will be assessed based on their ability to address meaningful healthcare challenges through practical and sustainable innovation.
 
-- Appointed by the GSSN Founder  
-- Ensures alignment with GSSN vision and strategy  
-- Responsible for continuity, direction, and oversight  
+Key considerations include:
 
-#### Session Chair (Rotational)
-
-- Appointed by IT² NEXUS Lead  
-- Moderates sessions  
-- Ensures inclusive discussion  
-- Summarises outcomes and next steps  
-
----
-
-### 5.3 Participants
-
-- Open to all GSSN members  
-- External collaborators may be invited  
-- Participation is voluntary, non-competitive, and non-evaluative  
+- **Healthcare Need**
+- **Innovation**
+- **Frugal Design**
+- **Feasibility**
+- **Impact**
+- **Scalability**
+- **Sustainability**
+- **Presentation**
 
 ---
 
-## 6. Frequency and Format
+## 10. Participant Expectations
 
-- **Frequency:** Bi-monthly (6 sessions/year)  
-- **Duration:** 60–90 minutes  
-- **Format:** Virtual (default); hybrid or in-person where feasible  
+Participants are expected to:
 
----
-
-## 7. Idea Submission Process
-
-### 7.1 Eligibility
-
-Any GSSN member may submit an idea.
-
-### 7.2 Submission Format
-
-- One-page concept note **or**  
-- Single-slide summary  
-
-### 7.3 Required Components
-
-1. Problem statement  
-2. Proposed innovation  
-3. Target learners or beneficiaries  
-4. Relevance to surgical education and/or global surgery  
-5. Type of support requested  
+- Submit original work.
+- Meet all programme deadlines.
+- Participate actively in scheduled activities.
+- Work collaboratively and professionally.
+- Respect confidentiality and intellectual property.
+- Consider patient safety and ethical implications.
+- Respond to communications from the organising committee.
 
 ---
 
-## 8. Session Structure
+## 11. Intellectual Property
 
-Maximum of **three ideas per session**.
+Intellectual property developed by participating teams remains with the respective team or creator unless otherwise agreed in writing.
 
-**Per-Idea Format:**
-
-- 3 min – Idea presentation  
-- 5 min – Structured discussion  
-- 2 min – Summary and next steps  
+Participation does not transfer ownership of an innovation, prototype, design, software, or research output to GSSN, IGI, or programme partners.
 
 ---
 
-## 9. Discussion Framework
+## 12. Responsible Innovation
 
-### Four Discussion Lenses
+Participants should ensure that their innovations are:
 
-1. **Value:** Significance and relevance  
-2. **Feasibility:** Practicality and deliverability  
-3. **Scalability:** Potential for wider application  
-4. **Next Step:** Smallest actionable progression  
+- Clinically meaningful
+- Evidence-informed
+- Safe and responsible
+- Affordable and accessible
+- Appropriate for resource-limited settings
+- Sustainable
 
-### Discussion Principles
-
-- Constructive, respectful dialogue  
-- No hierarchical dominance  
-- No ownership disputes during discussion  
-- Solution-oriented critique  
+Technology-based solutions should consider privacy, data protection, bias, transparency, and appropriate human oversight.
 
 ---
 
-## 10. Outcomes and Decision Pathways
+## 13. Post-Challenge Opportunities
 
-Each idea concludes with one outcome:
+Selected high-potential projects may be considered for:
 
-- **Advance** – Progress to mentoring, working group, or pilot  
-- **Refine** – Requires clarification or scope adjustment  
-- **Archive** – Valuable but not ready for progression  
-
-*No idea is formally rejected.*
-
----
-
-## 11. Documentation and Record Keeping
-
-A **one-page session summary** is produced after each meeting, including:
-
-1. Ideas discussed  
-2. Key discussion points  
-3. Agreed next steps  
-
-All records are stored within GSSN’s central documentation system.
+- Continued mentorship
+- Prototype development
+- Research collaboration
+- Pilot project development
+- Funding or bursary opportunities
+- Conference presentations
+- Publication opportunities
 
 ---
 
-## 12. Integration with GSSN-IGI Programmes
+## 14. Closing Statement
 
-Ideas may progress into:
+The **GSSN–IGI IT² NEXUS Healthcare Innovation Grand Challenge 2026** aims to inspire the next generation of healthcare innovators to transform surgical education and healthcare delivery through **clinical insight, multidisciplinary collaboration, frugal design, and practical innovation**.
 
-- GSSN & IGI Signature Projects  
-- LaApSi and GLTSS initiatives  
-- Virtual Surgical Skills programmes  
-- Mentorship, research, and publication pipelines  
+Participants will be challenged to develop solutions that are not only innovative, but also **affordable, sustainable, scalable, and relevant to real-world healthcare needs**.
 
----
+### Key Dates
 
-## 13. Intellectual Property and Ethics
-
-- Intellectual ownership remains with originators  
-- Funding, IP, and publication follow GSSN governance  
-- Ethical approval required for human participant data  
-
----
-
-## 14. Monitoring and Review
-
-Annual review by GSSN Founder and Executive Committee, considering:
-
-- Number of ideas discussed  
-- Projects progressed  
-- Academic and educational outputs  
-- Participant feedback  
-
----
-
-## 15. Amendments
-
-All amendments require approval by the GSSN Founder with notification to the Executive Committee.
-
----
-
-## 16. Approval
-
-**Approved by:** GSSN Founder  
- 
+- **Application Deadline:** 25 September 2026
+- **Expert Evaluation:** 26–29 September 2026
+- **Mentorship:** 1–7 October 2026
+- **Grand Finale:** 9 October 2026
