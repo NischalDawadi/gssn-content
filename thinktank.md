@@ -2,7 +2,7 @@
 title: "GSSN-IGI IT² NEXUS Innovation Think Tank (IT²)"
 thumbnail: "/src/pages/projects/images/think-tank.png"
 category: "Innovation "
-excerpt: "A healthcare innovation challenge focused on transforming ideas into **affordable, scalable, and sustainable solutions** through frugal surgical simulation, bringing together clinical insight, multidisciplinary collaboration, and practical innovation to address real healthcare needs in resource-limited settings."
+excerpt: "A healthcare innovation challenge focused on transforming ideas into affordable, scalable, and sustainable solutions through frugal surgical simulation, bringing together clinical insight, multidisciplinary collaboration, and practical innovation to address real healthcare needs in resource-limited settings."
 status: "Active"
 
 resources:
