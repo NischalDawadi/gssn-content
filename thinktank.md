@@ -28,8 +28,8 @@ The **GSSN–IGI IT² NEXUS Healthcare Innovation Grand Challenge** is an innova
 | **Organisers** | GSSN & Inspire Global Innovation |
 | **Application Deadline** | **27 September 2026** |
 | **Expert Evaluation** | **28 September – 1 October 2026** |
-| **Mentorship** | **3 – 9 October 2026** |
-| **Grand Finale** | **11 October 2026** |
+| **Mentorship** | **3 – 7 October 2026** |
+| **Grand Finale** | **9 October 2026** |
 | **Mode** | Online / Hybrid |
 | **Participation** | Solo participants and teams |
 
@@ -116,7 +116,7 @@ The proposal should briefly address:
 
 ### Application Form
 
-**[Apply Here](https://forms.gle/LbrEAe6opgFGtZuA9?utm_source=chatgpt.com)**
+**[Apply Here](https://forms.gle/LbrEAe6opgFGtZuA9)**
 
 ---
 
@@ -135,8 +135,8 @@ The proposal should briefly address:
 |---|---|---|
 | **27 September 2026** | **Application Deadline** | Submission of applications and proposals |
 | **28 September – 1 October 2026** | **Expert Evaluation** | Expert review and evaluation of innovations |
-| **3 – 9 October 2026** | **Mentorship & Refinement** | Expert guidance, innovation refinement and pitch preparation |
-| **11 October 2026** | **Grand Finale** | Final presentations, Q&A, judging and awards |
+| **3 – 7 October 2026** | **Mentorship & Refinement** | Expert guidance, innovation refinement and pitch preparation |
+| **9 October 2026** | **Grand Finale** | Final presentations, Q&A, judging and awards |
 
 ---
 
@@ -159,7 +159,7 @@ Evaluation will consider:
 
 ## 9. Mentorship
 
-Selected finalists will receive expert mentorship from **3–9 October 2026**.
+Selected finalists will receive expert mentorship from **3–7 October 2026**.
 
 Mentorship may include:
 
@@ -268,8 +268,8 @@ Whether participating **solo or as a team**, participants are invited to develop
 
 - **Application Deadline:** 27 September 2026
 - **Expert Evaluation:** 28 September – 1 October 2026
-- **Mentorship:** 3 – 9 October 2026
-- **Grand Finale:** 11 October 2026
+- **Mentorship:** 3 – 7 October 2026
+- **Grand Finale:** 9 October 2026
 
 ### Participation Fee
 
