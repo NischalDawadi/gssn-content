@@ -22,7 +22,7 @@ technologies: ["Virtual Symposium", "Research Presentations", "Oral Presentation
 
 The **GSSN Nepal Research Symposium 2026** was held virtually on **29 August 2026** under the theme:
 
-> **“Research Without Borders: Developing the Next Generation of Academic Clinicians”**
+> **Research Without Borders: Developing the Next Generation of Academic Clinicians**
 
 The symposium provided a platform for **medical students, junior doctors, researchers, and clinicians** to engage with research, academic career development, global surgery, mentorship, medical education, simulation, and healthcare innovation.
 
