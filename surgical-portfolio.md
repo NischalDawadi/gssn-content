@@ -7,19 +7,19 @@ status: "Completed"
 technologies: ["Educational Webinar", "CV Building Workshop", "Expert-Led Teaching", "Interactive Discussion", "Career Development"]
 ---
 
-**# Building a Strong Surgical Portfolio and Creating International Opportunities as a Nepalese Medical Student**
+# Building a Strong Surgical Portfolio and Creating International Opportunities as a Nepalese Medical Student
 
-**## Career Development and International Opportunities Webinar**
+## Career Development and International Opportunities Webinar
 
 ### Programme Overview
 
-The **GSSN Education Wing** conducted **“Building a Strong Surgical Portfolio and Creating International Opportunities as a Nepalese Medical Student”** on **23 May 2026**. The programme focused on helping medical students progressively develop strong academic and professional portfolios while identifying opportunities for international exposure, research, mentorship, scholarships, conferences, fellowships, and postgraduate surgical training. :chatgpt-content-reference{index="0"}
+The **GSSN Education Wing** conducted **“Building a Strong Surgical Portfolio and Creating International Opportunities as a Nepalese Medical Student”** on **23 May 2026**. The programme focused on helping medical students progressively develop strong academic and professional portfolios while identifying opportunities for international exposure, research, mentorship, scholarships, conferences, fellowships, and postgraduate surgical training. 
 
-The programme featured a keynote session by **Dr. Prarthana Subedi, Country Director, GSSN**, alongside a dedicated **CV Building Workshop** conducted by **Dr. Bishow Karki, Founder of GSSN**. A total of **80 participants** attended the programme. :chatgpt-content-reference{index="1"}
+The programme featured a keynote session by **Dr. Prarthana Subedi, Country Director, GSSN**, alongside a dedicated **CV Building Workshop** conducted by **Dr. Bishow Karki, Founder of GSSN**. A total of **80 participants** attended the programme. 
 
 ### Aim and Objectives
 
-The programme aimed to provide undergraduate medical students with practical guidance on **building a strong surgical portfolio and pursuing international academic, clinical, and professional opportunities**. :chatgpt-content-reference{index="2"}
+The programme aimed to provide undergraduate medical students with practical guidance on **building a strong surgical portfolio and pursuing international academic, clinical, and professional opportunities**. 
 
 Key objectives included:
 
@@ -30,7 +30,7 @@ Key objectives included:
 - Highlighting scholarships, conferences, and fellowships.
 - Discussing strategies for developing international mentorships.
 - Providing practical guidance on CV development.
-- Helping students document and present academic and professional achievements. :chatgpt-content-reference{index="3"}
+- Helping students document and present academic and professional achievements. 
 
 ### Keynote Session
 
@@ -42,13 +42,13 @@ Her international clinical and academic experiences included observership exposu
 - **St George's Hospital**
 - **Royal Infirmary of Edinburgh**
 
-She was also a full scholarship recipient at the **University of Oxford**. :chatgpt-content-reference{index="4"}
+She was also a full scholarship recipient at the **University of Oxford**. 
 
 ### CV Building Workshop
 
 A dedicated **CV Building Workshop** was conducted by **Dr. Bishow Karki, Founder of GSSN**.
 
-The workshop focused on helping participants understand how to structure and progressively strengthen their academic and professional CVs throughout medical school. :chatgpt-content-reference{index="5"}
+The workshop focused on helping participants understand how to structure and progressively strengthen their academic and professional CVs throughout medical school. 
 
 Participants were guided on presenting:
 
@@ -59,7 +59,7 @@ Participants were guided on presenting:
 - Awards and scholarships
 - Academic achievements
 - Relevant skills
-- Professional development activities :chatgpt-content-reference{index="6"}
+- Professional development activities 
 
 ### Programme Content
 
@@ -75,7 +75,7 @@ Topics included:
 - Academic projects
 - Developing global mentorships
 - Scholarships, conferences, and fellowships
-- Creating international academic and professional opportunities :chatgpt-content-reference{index="7"}
+- Creating international academic and professional opportunities 
 
 ### Learning Outcomes
 
@@ -99,7 +99,7 @@ By the end of the programme, participants were expected to understand:
 **CV Development**
 - Structuring an academic and professional CV.
 - Presenting achievements effectively.
-- Identifying areas for continued professional development. :chatgpt-content-reference{index="8"}
+- Identifying areas for continued professional development. 
 
 ### Session Format
 
@@ -111,15 +111,15 @@ The programme followed an **interactive career-development and skills-based form
 - Portfolio-development strategies
 - Dedicated CV-building instruction
 - Examples of academic and professional achievements
-- Interactive discussion and participant engagement :chatgpt-content-reference{index="9"}
+- Interactive discussion and participant engagement 
 
-The practical CV workshop helped participants move from general career advice toward the concrete task of documenting and presenting their experiences. :chatgpt-content-reference{index="10"}
+The practical CV workshop helped participants move from general career advice toward the concrete task of documenting and presenting their experiences. 
 
 ### Significance
 
 The programme addressed career development as a **progressive process beginning during medical school**, rather than only at the point of postgraduate applications.
 
-Particular emphasis was placed on integrating **education, clinical experience, research, publications, presentations, leadership, extracurricular activities, awards, scholarships, and professional development** into a coherent professional portfolio. :chatgpt-content-reference{index="11"}
+Particular emphasis was placed on integrating **education, clinical experience, research, publications, presentations, leadership, extracurricular activities, awards, scholarships, and professional development** into a coherent professional portfolio. 
 
 ### Programme Information
 
@@ -135,7 +135,7 @@ Particular emphasis was placed on integrating **education, clinical experience, 
 | **Participants** | 80 |
 | **Target Audience** | Medical Students |
 | **Year** | 2026 |
-| **Status** | **Completed** | :chatgpt-content-reference{index="12"}
+| **Status** | **Completed** | 
 
 ### Conclusion
 
