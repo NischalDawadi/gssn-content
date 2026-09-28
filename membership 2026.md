@@ -1,6 +1,6 @@
 ---
 title: "GSSN Membership 2026 – Now Open"
-thumbnail: "/src/pages/projects/images/membership2026.png"
+thumbnail: "/src/pages/projects/images/membership2026.webp"
 category: "Community"
 excerpt: "The official launch of the 2026 GSSN Membership Cycle, offering structured access to global surgical learning, training opportunities, mentorship, and innovation pathways."
 status: "Active"

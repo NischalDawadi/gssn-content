@@ -1,6 +1,6 @@
 ---
 title: "Virtual Surgical Knot Tying & Suturing Training for LMICs"
-thumbnail: "/src/pages/projects/images/virtualsuturing.png"
+thumbnail: "/src/pages/projects/images/virtualsuturing.webp"
 category: "Simulation"
 excerpt: "A CPD-approved virtual surgical skills workshop providing standardized knot tying and suturing training to medical students across low- and middle-income countries."
 status: "Completed"

@@ -1,6 +1,6 @@
 ---
 title: "Building a Strong Surgical Portfolio and Creating International Opportunities as a Nepalese Medical Student"
-thumbnail: "/src/pages/projects/images/surgical-portfolio.png"
+thumbnail: "/src/pages/projects/images/surgical-portfolio.webp"
 category: "Surgical Career Development"
 excerpt: "An educational webinar and practical CV-building workshop designed to help medical students develop strong surgical portfolios and explore international clinical, academic, research, mentorship, scholarship, and postgraduate training opportunities."
 status: "Completed"

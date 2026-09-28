@@ -1,6 +1,6 @@
 ---
 title: "International Virtual Surgical Skills Series (IVSS-Series)"
-thumbnail: "/src/pages/projects/images/ivss.jpg"
+thumbnail: "/src/pages/projects/images/ivss.webp"
 category: "Surgical Education"
 excerpt: "A faculty-led, fully virtual initiative designed to introduce medical students to fundamental surgical knot-tying skills using resource-efficient methods."
 status: "Completed"

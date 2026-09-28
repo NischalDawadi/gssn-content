@@ -1,6 +1,6 @@
 ---
 title: "GSSN Nepal Research Symposium 2026"
-thumbnail: "/src/pages/projects/images/research-symposium.png"
+thumbnail: "/src/pages/projects/images/research-symposium.webp"
 category: "Research & Academic Development"
 excerpt: "A virtual research symposium bringing together medical students, junior doctors, researchers, and clinicians to explore research, academic career development, global surgery, mentorship, medical education, simulation, and healthcare innovation."
 status: "Completed"

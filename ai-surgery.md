@@ -1,6 +1,6 @@
 ---
 title: "AI in Surgery: Basic Foundations and Clinical Applications"
-thumbnail: "/src/pages/projects/images/ai-surgery.png"
+thumbnail: "/src/pages/projects/images/ai-surgery.webp"
 category: "Surgical Education"
 excerpt: "An educational webinar introducing medical students and young doctors to the foundations, clinical applications, and emerging role of Artificial Intelligence in modern surgery."
 status: "Completed"

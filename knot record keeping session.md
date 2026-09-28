@@ -1,6 +1,6 @@
 ---
 title: "GSSN Knot Campaign 1.0 – Closing & Record-Keeping Session"
-thumbnail: "/src/pages/projects/images/knot record keeping.png"
+thumbnail: "/src/pages/projects/images/knot record keeping.webp"
 category: "Surgical Education"
 excerpt: "A large-scale virtual closing and record-keeping session marking the conclusion of Knot Campaign 1.0 (2025), focused on skills validation, documentation, and standardized competency reinforcement."
 status: "Completed"

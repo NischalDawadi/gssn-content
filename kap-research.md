@@ -1,6 +1,6 @@
 ---
 title: "Mastering KAP Survey Research: Design, Analysis & Publication"
-thumbnail: "/src/pages/projects/images/kap-research.png"
+thumbnail: "/src/pages/projects/images/kap-research.webp"
 category: "Research"
 excerpt: "A structured academic session focused on strengthening KAP survey methodology, Likert scale design, data analysis, and publication-oriented research skills for undergraduate medical students."
 status: "Completed"

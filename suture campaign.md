@@ -1,6 +1,6 @@
 ---
 title: "Suture Campaign"
-thumbnail: "/src/pages/projects/images/suture campaign.png"
+thumbnail: "/src/pages/projects/images/suture campaign.webp"
 category: "Surgical Education"
 excerpt: "A structured Training of Trainers initiative aimed at standardizing suturing education and building a scalable peer-led surgical skills training model within GSSN."
 status: "Active"

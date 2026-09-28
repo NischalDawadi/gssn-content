@@ -1,6 +1,6 @@
 ---
 title: "Surgical Observerships in Canada: An Overview of the Canadian Surgical Residency Pathway"
-thumbnail: "/src/pages/projects/images/canada-observership.png"
+thumbnail: "/src/pages/projects/images/canada-observership.webp"
 category: "International Surgical Education"
 excerpt: "An educational webinar introducing medical students and young doctors to surgical observerships in Canada, the Canadian General Surgery residency pathway, and practical strategies for international clinical exposure and career development."
 status: "Completed"

@@ -1,6 +1,6 @@
 ---
 title: "Virtual Surgical Skills Course (VSSC)"
-thumbnail: "/src/pages/projects/images/vssc.jpg"
+thumbnail: "/src/pages/projects/images/vssc.webp"
 category: "Education"
 excerpt: "A virtual surgical skills course conducted by Global Surgical Simulation Network (GSSN) and Health Exchange Nepal (HExN)."
 status: "Completed"

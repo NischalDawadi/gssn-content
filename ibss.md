@@ -1,6 +1,6 @@
 ---
 title: "International Surgical Skills Course (ISSC)"
-thumbnail: "/src/pages/projects/images/ISSS.jpg"
+thumbnail: "/src/pages/projects/images/ISSS.webp"
 category: "Surgical Education"
 excerpt: "A faculty-led, fully virtual initiative designed to introduce medical students to fundamental surgical knot-tying skills using resource-efficient methods."
 status: "Completed"
